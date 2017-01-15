@@ -2,3 +2,7 @@
 table.ChoiceStructure {
   width : 50%;  
 }
+
+.QuestionBody {
+  background-color : aqua;
+}
